@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="Home"/>
+
+    </group>
+    <group
+        android:id="@+id/group2">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/profile"
+            android:title="Profile"/>
+        <item
+            android:id="@+id/history"
+            android:icon="@drawable/history"
+            android:title="History"/>
+    </group>
+    <group
+        android:id="@+id/group3">
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/settings"
+            android:title="Settings"/>
+        <item
+            android:id="@+id/Contactus"
+            android:icon="@drawable/contactus"
+            android:title="Contact us"/>
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/share"
+            android:title="Share"/>
+    </group>
+
+
+</menu>

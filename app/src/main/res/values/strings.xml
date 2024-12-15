@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">blooddonation2</string>
+    <string name="Home">Home</string>
+    <string name="Profile">Profile</string>
+    <string name="imgbtndesc">this is image button for menu drawer</string>
+    <string-array name="blood_group_array">
+        <item>Choose Blood Group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+</resources>
